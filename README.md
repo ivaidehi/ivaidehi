@@ -15,6 +15,8 @@
 <br>
 
 <p align="right"><img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=ivaidehi&" alt="ivaidehi" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ivaidehi&label=Profile%20views&color=0e75b6&style=flat" alt="ivaidehi" /> </p>
+
 
 
 
