@@ -1,7 +1,6 @@
-<h1 align="right">Hello, I'm vaidehi </h1>
-<h4 align="right">Get more about me? Then here you can README.</h4>
-
-<hr>
+<h1 align="left">Hello, I'm vaidehi </h1>
+<h4 align="left">Get more about me? Then here you can README.</h4>
+<br>
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaidehi&show_icons=true&locale=en&layout=compact" alt="ivaidehi" /></p>
 
 <br>
