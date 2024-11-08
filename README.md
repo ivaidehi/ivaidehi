@@ -3,12 +3,6 @@
 Every problem has the solution & every solution has the problem, So keep solving until you find the loophole to escape.
 <br>
 <br>
-# 📊 GitHub Stats
-<div align="left" >
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaidehi&show_icons=true&locale=en&layout=compact" alt="ivaidehi" />
-  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=ivaidehi&show_icons=true&locale=en" alt="ivaidehi" />
-</div>
-<br>
 
 # 💻 Tech Stack
 
@@ -31,6 +25,15 @@ Every problem has the solution & every solution has the problem, So keep solving
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 
+# 📊 GitHub Stats
+<div align="left" >
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaidehi&show_icons=true&locale=en&layout=compact" alt="ivaidehi" />
+  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=ivaidehi&show_icons=true&locale=en" alt="ivaidehi" />
+</div>
+<br>
+
+
 [![](https://visitcount.itsvg.in/api?id=ivaidehi&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
