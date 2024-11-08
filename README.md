@@ -6,7 +6,7 @@ Every problem has the solution & every solution has the problem, So keep solving
 # 📊 GitHub Stats
 <div align="left" >
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaidehi&show_icons=true&locale=en&layout=compact" alt="ivaidehi" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ivaidehi&" alt="ivaidehi" />
+  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=ivaidehi&show_icons=true&locale=en" alt="ivaidehi" />
 </div>
 <br>
 
