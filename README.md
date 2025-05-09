@@ -1,8 +1,9 @@
 # 👋 Hello, vaidehi Here
 #### Get more about me? Then here you can README.
-Every problem has the solution & every solution has the problem, So keep solving until you find the loophole to escape.
-<br>
-<br>
+I'm Vaidehi Talekar, an undergraduate student with a strong passion and interest for Flutter app development, UI design, and
+ Python programming. I excel at solving coding problems efficiently and leveraging AI tools like ChatGPT,
+ DeepSeek, and Bolt to enhance development workflows. With hands-on experience in Firebase and a knack for
+ research and analysis, I’m driven to build smart, user-centric applications
 
 # 💻 Tech Stack
 
@@ -24,13 +25,6 @@ Every problem has the solution & every solution has the problem, So keep solving
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-
-# 📊 GitHub Stats
-<div align="left" >
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaidehi&show_icons=true&locale=en&layout=compact" alt="ivaidehi" />
-  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=ivaidehi&show_icons=true&locale=en" alt="ivaidehi" />
-</div>
-<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=ivaidehi&icon=0&color=1)](https://visitcount.itsvg.in)
