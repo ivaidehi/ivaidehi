@@ -5,7 +5,7 @@ I'm Vaidehi Talekar, an undergraduate student with a strong passion and interest
  DeepSeek, and Bolt to enhance development workflows. With hands-on experience in Firebase and a knack for
  research and analysis, I’m driven to build smart, user-centric applications
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
