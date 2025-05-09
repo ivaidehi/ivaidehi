@@ -1,9 +1,9 @@
 # 👋 Hello, vaidehi Here
 #### Get more about me? Then here you can README.
-I'm Vaidehi Talekar, an undergraduate student with a strong passion and interest for Flutter app development, UI design, and
+I'm Vaidehi Talekar, an undergraduate student with a strong passion for Flutter app development &
  Python programming. I excel at solving coding problems efficiently and leveraging AI tools like ChatGPT,
  DeepSeek, and Bolt to enhance development workflows. With hands-on experience in Firebase and a knack for
- research and analysis, I’m driven to build smart, user-centric applications
+ research and analysis, I’m driven to build smart, user-centric applications.
 
 ### 💻 Tech Stack
 
